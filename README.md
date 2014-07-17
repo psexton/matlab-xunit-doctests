@@ -43,10 +43,19 @@ the moment, the best way is to copy the ``testDocTestsHere.m`` file from
 you can use the normal xUnit ``runxunit`` function to run both unit and
 doctests.
 
-Origin
-------
+Authors
+-------
 
-Originally written by [Thomas Grenfell Smith](https://github.com/tgs/) as part of matlab-xunit. Now broken out into its own xunit extension.
+Originally written by [Thomas Grenfell Smith](https://github.com/tgs/) as part of matlab-xunit. Now broken out into its own xunit extension. Now mostly unsupported.
+
+Contributing
+------------
+
+1. Fork it ( https://github.com/psexton/matlab-xunit-doctests/fork )
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create a new Pull Request 
 
 License
 -------
