@@ -1,7 +1,7 @@
 matlab-xunit-doctests
 =====================
 
-DocTests extension for matlab-xunit
+DocTests extension for [matlab-xunit](https://github.com/psexton/matlab-xunit)
 
 What is this good for?  Well, often it's nice to have examples in your
 documentation.  Well, now you can automatically run those examples to
@@ -46,7 +46,7 @@ doctests.
 Authors
 -------
 
-Originally written by [Thomas Grenfell Smith](https://github.com/tgs/) as part of matlab-xunit. Now broken out into its own xunit extension. Now mostly unsupported.
+Originally written by [Thomas Grenfell Smith](https://github.com/tgs/) as part of matlab-xunit. Now broken out into its own xunit extension and mostly unsupported. :crying_cat_face:
 
 Contributing
 ------------
